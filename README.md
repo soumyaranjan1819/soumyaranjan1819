@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Soumya Ranjan
 - 👀 I’m a frontend developer & freelencer
-- 🌱 I’m love to build web apps using react & its ecosystem
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m love to build web apps using React & its ecosystem
 - 📫 Reach me @ soumyaranjan1819@gmail.com
 
 <!---
